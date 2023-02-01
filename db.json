@@ -6,6 +6,14 @@
             "sirname": "Moskalenko",
             "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0fg2c9-CRUddnBfLdX_Jj3mHm2h-xhgO6zQ&usqp=CAU",
             "balance": 20000
+        },
+        {
+            "id": 1,
+            "name": "Sasha",
+            "sirname": "Ovcharenko",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Minniecat.png/800px-Minniecat.png",
+            "balance": 1000
+             
         }
     ]
 }
