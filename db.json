@@ -1,5 +1,11 @@
 {
     "users": [
-        
+        {
+            "id": 2,
+            "name": "Misha",
+            "sirname": "Moskalenko",
+            "photo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0fg2c9-CRUddnBfLdX_Jj3mHm2h-xhgO6zQ&usqp=CAU",
+            "balance": 20000
+        }
     ]
 }
