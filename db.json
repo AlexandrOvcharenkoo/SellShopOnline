@@ -1,5 +1,11 @@
 {
     "users": [
-        
+        {
+            "id": 1,
+            "name": "Sasha",
+            "sirname": "Ovcharenko",
+            "photo_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Minniecat.png/800px-Minniecat.png",
+            "balance": "1000"
+        }
     ]
 }
